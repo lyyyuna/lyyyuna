@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
-![](https://media.giphy.com/media/yl3XErRq8qmmA/giphy.gif)
+
+![](https://raw.githubusercontent.com/lyyyuna/lyyyuna/master/matrix.gif)
 
 <!--
 **lyyyuna/lyyyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
