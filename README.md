@@ -2,6 +2,8 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
+![](https://raw.githubusercontent.com/lyyyuna/lyyyuna/master/CodeCogsEqn.png)
+
 ![](https://raw.githubusercontent.com/lyyyuna/lyyyuna/master/matrix.gif)
 
 <!--
