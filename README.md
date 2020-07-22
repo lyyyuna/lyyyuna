@@ -2,7 +2,7 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
-<img width="400" src="https://wakatime.com/share/@bfd9de4c-fbe1-43df-94a9-f231f4a43b48/c5849976-da59-48cc-a0a5-67f1a43315e2.png" /><img width="400"  src="https://wakatime.com/share/@bfd9de4c-fbe1-43df-94a9-f231f4a43b48/b7985c48-0279-487d-8988-15b9b1cd5dab.png" />
+<img width="450" src="https://wakatime.com/share/@bfd9de4c-fbe1-43df-94a9-f231f4a43b48/c5849976-da59-48cc-a0a5-67f1a43315e2.png" /><img width="450"  src="https://wakatime.com/share/@bfd9de4c-fbe1-43df-94a9-f231f4a43b48/b7985c48-0279-487d-8988-15b9b1cd5dab.png" />
 
 <!--
 ![](https://raw.githubusercontent.com/lyyyuna/lyyyuna/master/CodeCogsEqn.png)
