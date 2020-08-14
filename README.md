@@ -2,13 +2,11 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
-<img src="https://wakatime.com/share/@bfd9de4c-fbe1-43df-94a9-f231f4a43b48/b7985c48-0279-487d-8988-15b9b1cd5dab.png" />
+![lyyyuna's github stats](https://github-readme-stats.vercel.app/api?username=lyyyuna&count_private=true)
 
 <!--
-![](https://raw.githubusercontent.com/lyyyuna/lyyyuna/master/CodeCogsEqn.png)
--->
-
 ![](https://raw.githubusercontent.com/lyyyuna/lyyyuna/master/matrix.gif)
+-->
 
 <!--
 **lyyyuna/lyyyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
